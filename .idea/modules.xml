@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/entry-points/api-rest/crudTest.api-rest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/entry-points/api-rest/crudTest.api-rest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/driven-adapters/jpa-repository/crudTest.jpa-repository.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/driven-adapters/jpa-repository/crudTest.jpa-repository.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/model/crudTest.model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/model/crudTest.model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/usecase/crudTest.usecase.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/usecase/crudTest.usecase.main.iml" />
+    </modules>
+  </component>
+</project>
